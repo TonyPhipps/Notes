@@ -1,0 +1,20 @@
+# Authors
+- Augustine
+- Carl Trueman
+- Fred Sanders
+- Greg Lanier
+- Herman Bavinck
+- JI Packer
+- John Calvin
+- John Owen
+- John Webster
+- Martin Luther
+- Matthew Barret
+- Michael Allen
+- Michael Horton
+- Oliver O'Donovan
+- RC Sproul
+- Scott Swain
+- Sinclair Ferguson
+- Thomas Watson
+- William Perkins
